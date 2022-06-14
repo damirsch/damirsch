@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @pudgepicker
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML/CSS/JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-pudgepicker/pudgepicker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @pudgepicker, I'm 13 y.o.(not a joke)
+- 🇧🇾 I'm from Belarus(small country near Russia)
+- 🧠 I'm developing react apps
+- 🌱 I’m currently learning React/TypeScript/JS
+- 📫 My gmail - damiralecia@gmail.com
