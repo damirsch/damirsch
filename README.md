@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @pudgepicker, I'm 13 y.o.(not a joke)
-- 🇧🇾 I'm from Belarus(small country near Russia)
-- 🧠 I'm developing react apps
-- 🌱 I’m currently learning React/TypeScript/JS
-- 📫 My gmail - damiralecia@gmail.com
+Hi, I'm 15 years old and I'm doing web development.
+I write code for both front-end and back-end.
+My technology stack: TypeScript, JavaScript, React, WebSockets, HTML5, CSS3, Webpack and Rest API
